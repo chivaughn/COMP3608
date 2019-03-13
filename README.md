@@ -3,9 +3,9 @@ Intelligent Systems Assignments
 
 A repo of the assignments I completed for my Intelligent Systems course
 
-Programming Languages used:
+<b>Programming Languages used:</b>
 <ul>
-  <li><b>Python</b></li>
-  <li><b>Prolog</b></li>
-  <li><b>CLIPS</b></li>
+  <li>Python</li>
+  <li>Prolog</li>
+  <li>CLIPS</li>
   </ul>
