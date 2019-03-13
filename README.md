@@ -5,7 +5,7 @@ A repo of the assignments I completed for my Intelligent Systems course
 
 <b>Programming Languages used:</b>
 <ul>
-  <li>Python</li>
+  <li>Python 3</li>
   <li>Prolog</li>
   <li>CLIPS</li>
   </ul>
